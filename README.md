@@ -47,3 +47,7 @@ Users can select different values to dynamically filter the dashboard and analyz
 ## Final Conclusion
 
 The Customer Analytics Dashboard provides a clear overview of customer demographics, income, lifestyle, and regional patterns. The interactive filters and visualizations make it easy to identify important customer segments and trends. Overall, the dashboard demonstrates how Power BI can transform raw customer data into meaningful insights for better data-driven business decisions.
+
+## ⭐ Feedback
+
+If you find this project useful, feel free to ⭐ the repository!
