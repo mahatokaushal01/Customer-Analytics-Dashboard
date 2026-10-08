@@ -38,8 +38,12 @@ Users can select different values to dynamically filter the dashboard and analyz
 
 ## Project Insight
 
-Zone 5 has the highest number of customers (1,053), while Zone 4 has the lowest (947).
-Single-family homes are the most common home type, with 2,246 customers.
-Freshfish is the largest pet category, representing about 60.75% of the total.
-Customer income varies across job categories, regions, gender, and marital status.
-Car ownership differs across age groups and regions, providing useful insights into customer lifestyles.
+- Zone 5 has the highest number of customers (1,053), while Zone 4 has the lowest (947).
+- Single-family homes are the most common home type, with 2,246 customers.
+- Freshfish is the largest pet category, representing about 60.75% of the total.
+- Customer income varies across job categories, regions, gender, and marital status.
+- Car ownership differs across age groups and regions, providing useful insights into customer lifestyles.
+
+## Final Conclusion
+
+The Customer Analytics Dashboard provides a clear overview of customer demographics, income, lifestyle, and regional patterns. The interactive filters and visualizations make it easy to identify important customer segments and trends. Overall, the dashboard demonstrates how Power BI can transform raw customer data into meaningful insights for better data-driven business decisions.
