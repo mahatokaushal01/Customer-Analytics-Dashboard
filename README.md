@@ -20,6 +20,8 @@ The dashboard helps answer questions such as:
 - How does average income differ by gender and marital status?
 - How does car ownership vary across age categories and regions?
 
+- Dashboard Interaction <a href=https://github.com/mahatokaushal01/Customer-Analytics-Dashboard/blob/main/Customer%20Analysis.png>View Dashboard</a>
+
 ## 🎛️ Interactive Filters
 
 The dashboard contains interactive slicers for:
