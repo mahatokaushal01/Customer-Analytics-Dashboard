@@ -31,3 +31,8 @@ The dashboard contains interactive slicers for:
 - **Age Category**
 
 Users can select different values to dynamically filter the dashboard and analyze specific customer segments.
+
+## Dashboard
+
+<img width="1445" height="752" alt="Customer Analysis" src="https://github.com/user-attachments/assets/ccad9193-ec97-4bb4-8fdb-8fc0142ab038" />
+
