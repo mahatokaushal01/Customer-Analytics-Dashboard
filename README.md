@@ -7,3 +7,13 @@ An interactive Power BI project developed to analyze customer data and identify 
 ## Dataset used
 
 - <a href=https://github.com/mahatokaushal01/Customer-Analytics-Dashboard/blob/main/POWERBI.pbix>Dataset</a>
+
+## 🎛️ Interactive Filters
+
+The dashboard contains interactive slicers for:
+
+- **Gender**
+- **Region**
+- **Age Category**
+
+Users can select different values to dynamically filter the dashboard and analyze specific customer segments.
