@@ -22,7 +22,7 @@ The dashboard helps answer questions such as:
 
 - Dashboard Interaction <a href=https://github.com/mahatokaushal01/Customer-Analytics-Dashboard/blob/main/Customer%20Analysis.png>View Dashboard</a>
 
-## 🎛️ Interactive Filters
+## Interactive Filters
 
 The dashboard contains interactive slicers for:
 
@@ -36,3 +36,10 @@ Users can select different values to dynamically filter the dashboard and analyz
 
 <img width="1445" height="752" alt="Customer Analysis" src="https://github.com/user-attachments/assets/ccad9193-ec97-4bb4-8fdb-8fc0142ab038" />
 
+## Project Insight
+
+Zone 5 has the highest number of customers (1,053), while Zone 4 has the lowest (947).
+Single-family homes are the most common home type, with 2,246 customers.
+Freshfish is the largest pet category, representing about 60.75% of the total.
+Customer income varies across job categories, regions, gender, and marital status.
+Car ownership differs across age groups and regions, providing useful insights into customer lifestyles.
